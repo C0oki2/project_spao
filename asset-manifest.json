@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/project_spao/static/css/main.8f1da619.css",
-    "main.js": "/project_spao/static/js/main.3fb1a29c.js",
+    "main.js": "/project_spao/static/js/main.ce6a66ae.js",
     "static/js/453.c8ef8f7f.chunk.js": "/project_spao/static/js/453.c8ef8f7f.chunk.js",
     "static/media/spao.jpg": "/project_spao/static/media/spao.a50e11f19edd1ec94073.jpg",
     "index.html": "/project_spao/index.html",
     "main.8f1da619.css.map": "/project_spao/static/css/main.8f1da619.css.map",
-    "main.3fb1a29c.js.map": "/project_spao/static/js/main.3fb1a29c.js.map",
+    "main.ce6a66ae.js.map": "/project_spao/static/js/main.ce6a66ae.js.map",
     "453.c8ef8f7f.chunk.js.map": "/project_spao/static/js/453.c8ef8f7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f1da619.css",
-    "static/js/main.3fb1a29c.js"
+    "static/js/main.ce6a66ae.js"
   ]
 }
